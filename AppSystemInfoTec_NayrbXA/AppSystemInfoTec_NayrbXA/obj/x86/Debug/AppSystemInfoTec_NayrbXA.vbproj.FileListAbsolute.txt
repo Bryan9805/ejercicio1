@@ -1,0 +1,8 @@
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_NayrbXA\AppSystemInfoTec_NayrbXA\bin\Debug\AppSystemInfoTec_NayrbXA.exe
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_NayrbXA\AppSystemInfoTec_NayrbXA\bin\Debug\AppSystemInfoTec_NayrbXA.pdb
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_NayrbXA\AppSystemInfoTec_NayrbXA\bin\Debug\AppSystemInfoTec_NayrbXA.xml
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_NayrbXA\AppSystemInfoTec_NayrbXA\obj\x86\Debug\AppSystemInfoTec_NayrbXA.Resources.resources
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_NayrbXA\AppSystemInfoTec_NayrbXA\obj\x86\Debug\AppSystemInfoTec_NayrbXA.vbproj.GenerateResource.Cache
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_NayrbXA\AppSystemInfoTec_NayrbXA\obj\x86\Debug\AppSystemInfoTec_NayrbXA.exe
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_NayrbXA\AppSystemInfoTec_NayrbXA\obj\x86\Debug\AppSystemInfoTec_NayrbXA.xml
+C:\xampp\htdocs\ejercicio1\AppSystemInfoTec_NayrbXA\AppSystemInfoTec_NayrbXA\obj\x86\Debug\AppSystemInfoTec_NayrbXA.pdb
